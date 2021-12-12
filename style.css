@@ -1,0 +1,67 @@
+
+.contaner{
+    display: flex;
+    position: absolute;
+}
+.data{
+    top: 40%;
+    position: relative;
+    margin: 0 100px;
+}
+.logo{
+    width: 100px;
+    height: 30px;
+    left: 10px;
+
+}
+.logo .ama{
+    height: 30px;
+    width: 100px;
+    left: 10px;
+}
+
+
+
+.body{
+    height: 90px;
+    width: 100%;
+    margin: 290px 0px;
+    font-size: 80px;
+}
+
+.images{
+    
+    height: 90px;
+    width: 170px;
+    position: absolute;
+
+}
+.images-ph{
+    width: 90px;
+}
+
+
+
+
+.laptop{
+    width: 100%;
+
+}
+
+
+
+.control{
+    list-style: none;
+    text-decoration: none;
+    background: skyblue;
+}
+.text-dark li a{
+    text-emphasis: none;
+    text-decoration: none;
+    color: rgb(192, 201, 152);
+    list-style: none;
+    
+}
+.text-dark li a:hover{
+    color: #fbfdf9;
+}
